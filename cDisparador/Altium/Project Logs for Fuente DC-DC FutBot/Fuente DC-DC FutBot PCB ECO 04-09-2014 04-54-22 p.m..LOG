@@ -1,0 +1,136 @@
+Added Component: Designator=4N32A(DIP-6)
+Added Component: Designator=4N32B(DIP-6)
+Added Component: Designator=555(DIL08-ROUND)
+Added Component: Designator=Batt(SCREWTERMINAL-3.5MM-2)
+Added Component: Designator=bCapBatt(CAPR5-4X5)
+Added Component: Designator=bCap(SCREWTERMINAL-3.5MM-2)
+Added Component: Designator=BYW95C1(SOD66)
+Added Component: Designator=BYW95C2(SOD66)
+Added Component: Designator=BYW95C3(SOD66)
+Added Component: Designator=C5(DIODE-0.7)
+Added Component: Designator=Con1(HDR1X6)
+Added Component: Designator=CT1(RAD-0.3)
+Added Component: Designator=L1(AXIAL-0.9)
+Added Component: Designator=L2(AXIAL-0.9)
+Added Component: Designator=LDisp(LED5MM)
+Added Component: Designator=LOn/Off(LED5MM)
+Added Component: Designator=LVCC(LED5MM)
+Added Component: Designator=Q1(E3)
+Added Component: Designator=RL1(AXIAL-0.3)
+Added Component: Designator=RL2(AXIAL-0.3)
+Added Component: Designator=RL3(AXIAL-0.3)
+Added Component: Designator=ROA1(AXIAL-0.3)
+Added Component: Designator=ROA2(AXIAL-0.3)
+Added Component: Designator=ROB1(AXIAL-0.3)
+Added Component: Designator=ROB2(AXIAL-0.3)
+Added Component: Designator=rRef1(AXIAL-0.3)
+Added Component: Designator=rRef2(AXIAL-0.3)
+Added Component: Designator=RT1(AXIAL-0.3)
+Added Component: Designator=RT2(AXIAL-0.3)
+Added Component: Designator=RT3(AXIAL-0.3)
+Added Component: Designator=Solenoide(SCREWTERMINAL-3.5MM-2)
+Added Component: Designator=TL(TO-247)
+Added Component: Designator=T(TO-247)
+Added Pin To Net: NetName=DIGBT Pin=4N32B-5
+Added Pin To Net: NetName=DIGBT Pin=ROB2-1
+Added Pin To Net: NetName=DIGBT Pin=T-1
+Added Net: Name=DIGBT
+Added Pin To Net: NetName=DISP Pin=Con1-1
+Added Pin To Net: NetName=DISP Pin=RL3-1
+Added Pin To Net: NetName=DISP Pin=ROB1-2
+Added Net: Name=DISP
+Added Pin To Net: NetName=GND_D Pin=4N32A-2
+Added Pin To Net: NetName=GND_D Pin=4N32B-2
+Added Pin To Net: NetName=GND_D Pin=Con1-3
+Added Pin To Net: NetName=GND_D Pin=LDisp-K
+Added Pin To Net: NetName=GND_D Pin=LOn/Off-K
+Added Net: Name=GND_D
+Added Pin To Net: NetName=GND Pin=4N32A-4
+Added Pin To Net: NetName=GND Pin=4N32B-4
+Added Pin To Net: NetName=GND Pin=555-1
+Added Pin To Net: NetName=GND Pin=Batt-2
+Added Pin To Net: NetName=GND Pin=bCapBatt-2
+Added Pin To Net: NetName=GND Pin=BYW95C2-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=Con1-6
+Added Pin To Net: NetName=GND Pin=CT1-1
+Added Pin To Net: NetName=GND Pin=LVCC-K
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=rRef2-1
+Added Pin To Net: NetName=GND Pin=T-3
+Added Pin To Net: NetName=GND Pin=TL-3
+Added Net: Name=GND
+Added Pin To Net: NetName=Net4N32A_1 Pin=4N32A-1
+Added Pin To Net: NetName=Net4N32A_1 Pin=ROA1-1
+Added Net: Name=Net4N32A_1
+Added Pin To Net: NetName=Net4N32B_1 Pin=4N32B-1
+Added Pin To Net: NetName=Net4N32B_1 Pin=ROB1-1
+Added Net: Name=Net4N32B_1
+Added Pin To Net: NetName=Net555_2 Pin=555-2
+Added Pin To Net: NetName=Net555_2 Pin=555-6
+Added Pin To Net: NetName=Net555_2 Pin=CT1-2
+Added Pin To Net: NetName=Net555_2 Pin=RT2-1
+Added Net: Name=Net555_2
+Added Pin To Net: NetName=Net555_5 Pin=555-5
+Added Pin To Net: NetName=Net555_5 Pin=Q1-1
+Added Pin To Net: NetName=Net555_5 Pin=RT3-1
+Added Net: Name=Net555_5
+Added Pin To Net: NetName=Net555_7 Pin=555-7
+Added Pin To Net: NetName=Net555_7 Pin=RT1-1
+Added Pin To Net: NetName=Net555_7 Pin=RT2-2
+Added Net: Name=Net555_7
+Added Pin To Net: NetName=NetBYW95C1_1 Pin=BYW95C1-1
+Added Pin To Net: NetName=NetBYW95C1_1 Pin=BYW95C2-2
+Added Pin To Net: NetName=NetBYW95C1_1 Pin=Solenoide-2
+Added Pin To Net: NetName=NetBYW95C1_1 Pin=T-2
+Added Net: Name=NetBYW95C1_1
+Added Pin To Net: NetName=NetBYW95C3_1 Pin=BYW95C3-1
+Added Pin To Net: NetName=NetBYW95C3_1 Pin=L2-2
+Added Pin To Net: NetName=NetBYW95C3_1 Pin=TL-2
+Added Net: Name=NetBYW95C3_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=L2-1
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetLDisp_A Pin=LDisp-A
+Added Pin To Net: NetName=NetLDisp_A Pin=RL3-2
+Added Net: Name=NetLDisp_A
+Added Pin To Net: NetName=NetLOn/Off_A Pin=LOn/Off-A
+Added Pin To Net: NetName=NetLOn/Off_A Pin=RL2-2
+Added Net: Name=NetLOn/Off_A
+Added Pin To Net: NetName=NetLVCC_A Pin=LVCC-A
+Added Pin To Net: NetName=NetLVCC_A Pin=RL1-2
+Added Net: Name=NetLVCC_A
+Added Pin To Net: NetName=ON/OFF Pin=Con1-2
+Added Pin To Net: NetName=ON/OFF Pin=RL2-1
+Added Pin To Net: NetName=ON/OFF Pin=ROA1-2
+Added Net: Name=ON/OFF
+Added Pin To Net: NetName=SIN Pin=4N32A-5
+Added Pin To Net: NetName=SIN Pin=555-4
+Added Pin To Net: NetName=SIN Pin=ROA2-1
+Added Net: Name=SIN
+Added Pin To Net: NetName=TOUT Pin=555-3
+Added Pin To Net: NetName=TOUT Pin=TL-1
+Added Net: Name=TOUT
+Added Pin To Net: NetName=VCAP Pin=BYW95C1-2
+Added Pin To Net: NetName=VCAP Pin=BYW95C3-2
+Added Pin To Net: NetName=VCAP Pin=C5-2
+Added Pin To Net: NetName=VCAP Pin=Con1-4
+Added Pin To Net: NetName=VCAP Pin=rRef1-2
+Added Pin To Net: NetName=VCAP Pin=Solenoide-1
+Added Net: Name=VCAP
+Added Pin To Net: NetName=VCC Pin=555-8
+Added Pin To Net: NetName=VCC Pin=Batt-1
+Added Pin To Net: NetName=VCC Pin=bCapBatt-1
+Added Pin To Net: NetName=VCC Pin=L1-1
+Added Pin To Net: NetName=VCC Pin=RL1-1
+Added Pin To Net: NetName=VCC Pin=ROA2-2
+Added Pin To Net: NetName=VCC Pin=ROB2-2
+Added Pin To Net: NetName=VCC Pin=RT1-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VREF Pin=Con1-5
+Added Pin To Net: NetName=VREF Pin=Q1-2
+Added Pin To Net: NetName=VREF Pin=rRef1-1
+Added Pin To Net: NetName=VREF Pin=rRef2-2
+Added Net: Name=VREF
+Added Class: Name=Fuente DC-DC FutBot
+Added Room: Name=Fuente DC-DC FutBot
