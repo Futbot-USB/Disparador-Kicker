@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=rDesc-1
+Removed Pin From Net: NetName=VCAP Pin=Switch-2
+Removed Member From Class: ClassName=Fuente DC-DC FutBot Member=rDesc
+Removed Member From Class: ClassName=Fuente DC-DC FutBot Member=Switch
+Added Pin To Net: NetName=VCAP Pin=BYW95C1-2
+Added Pin To Net: NetName=VCAP Pin=Solenoide-1

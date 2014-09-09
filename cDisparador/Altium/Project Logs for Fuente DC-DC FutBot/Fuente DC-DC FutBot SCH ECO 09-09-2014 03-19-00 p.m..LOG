@@ -1,0 +1,34 @@
+Replace Part 4N32A 4N32 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with 4N32 from FutBot_USB.SchLib
+Replace Part 4N32B 4N32 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with 4N32 from FutBot_USB.SchLib
+Replace Part 555 *555N in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with *555N from adafruit.IntLib
+Replace Part Batt M023.5MM in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with M023.5MM from SparkFun-Connectors.IntLib
+Replace Part bCap M023.5MM in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with M023.5MM from SparkFun-Connectors.IntLib
+Replace Part C5 Cap in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part cBatt Cap Pol1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Cap Pol1 from Miscellaneous Devices.IntLib
+Replace Part Conn1 Header 6 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Header 6 from Miscellaneous Connectors.IntLib
+Replace Part CT Cap in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part DTGP602 DTGP602 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with DTGP602 from FutBot_USB.SchLib
+Replace Part DTGP602_1 DTGP602 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with DTGP602 from FutBot_USB.SchLib
+Replace Part DTGP602_IGBT DTGP602 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with DTGP602 from FutBot_USB.SchLib
+Replace Part DTGP602_Sol DTGP602 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with DTGP602 from FutBot_USB.SchLib
+Replace Part IRFP450 IRFP450 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with IRFP450 from FutBot_USB.SchLib
+Replace Part L1 Inductor Iron in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Inductor Iron from Miscellaneous Devices.IntLib
+Replace Part L2 Inductor Iron in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Inductor Iron from Miscellaneous Devices.IntLib
+Replace Part LDisp LED5MM in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with LED5MM from adafruit.IntLib
+Replace Part LOn/Off LED5MM in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with LED5MM from adafruit.IntLib
+Replace Part LVCC LED5MM in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with LED5MM from adafruit.IntLib
+Replace Part Q1 ZVP2106A in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with ZVP2106A from Zetex Discrete MOSFET.IntLib
+Replace Part RL1 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part RL2 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part RL3 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part ROA1 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part ROA2 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part ROB1 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part ROB2 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part rRef1 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part rRef2 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part RT1 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part RT2 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part RT3 Res1 in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part Solenoide M023.5MM in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with M023.5MM from SparkFun-Connectors.IntLib
+Replace Part SSH10N90A SSH10N90A in D:\Copy\Altium\PCB_Project\Fuente DC-DC FutBot.SchDoc with SSH10N90A from FutBot_USB.SchLib

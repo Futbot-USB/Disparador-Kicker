@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=Batt-1
+Removed Pin From Net: NetName=GND Pin=Batt-2
+Removed Pin From Net: NetName=VCC Pin=bCapBatt-1
+Added Component: Designator=DTGP602_RP(SOD66)
+Added Pin To Net: NetName=GND Pin=Batt-1
+Added Pin To Net: NetName=VCC Pin=DTGP602_RP-2
+Added Pin To Net: NetName=NetBatt_2 Pin=Batt-2
+Added Pin To Net: NetName=NetBatt_2 Pin=DTGP602_RP-1
+Added Net: Name=NetBatt_2
+Added Member To Class: ClassName=Fuente DC-DC FutBot Member=Component DTGP602_RP BYW95C

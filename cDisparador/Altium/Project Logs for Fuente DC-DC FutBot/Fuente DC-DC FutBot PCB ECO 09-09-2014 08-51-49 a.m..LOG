@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=BYW95C1 NewDesignator=DTGP602_3
+Change Component Designator: OldDesignator=BYW95C2 NewDesignator=DTGP602_2
+Change Component Designator: OldDesignator=BYW95C3 NewDesignator=DTGP602_1
+Change Net Name : Old Net Name=NetBYW95C1_1 New Net Name=NetDTGP602_2_2
+Change Net Name : Old Net Name=NetBYW95C3_1 New Net Name=NetDTGP602_1_1

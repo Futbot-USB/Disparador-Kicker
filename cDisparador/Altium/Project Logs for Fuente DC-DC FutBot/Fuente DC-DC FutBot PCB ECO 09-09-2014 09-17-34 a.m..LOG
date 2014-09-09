@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=bCapBatt2-2
+Removed Member From Class: ClassName=Fuente DC-DC FutBot Member=bCapBatt2

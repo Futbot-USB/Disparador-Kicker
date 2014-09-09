@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=NetDTGP602_1_1 Pin=DTGP602_1-1
+Removed Pin From Net: NetName=VCAP Pin=DTGP602_1-2
+Removed Pin From Net: NetName=GND Pin=DTGP602_2-1
+Removed Pin From Net: NetName=NetDTGP602_2_2 Pin=DTGP602_2-2
+Removed Pin From Net: NetName=NetDTGP602_2_2 Pin=DTGP602_3-1
+Removed Pin From Net: NetName=VCAP Pin=DTGP602_3-2
+Removed Pin From Net: NetName=NetBatt_2 Pin=DTGP602_RP-1
+Removed Pin From Net: NetName=VCC Pin=DTGP602_RP-2
+Removed Member From Class: ClassName=Fuente DC-DC FutBot Member=DTGP602_1
+Removed Member From Class: ClassName=Fuente DC-DC FutBot Member=DTGP602_2
+Removed Member From Class: ClassName=Fuente DC-DC FutBot Member=DTGP602_3
+Removed Member From Class: ClassName=Fuente DC-DC FutBot Member=DTGP602_RP
+Change Component Footprint: Designator=CT Old Footprint=AXIAL-0.3 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C5 Old Footprint=DIODE-0.7 New Footprint=RAD-0.3
+Change Component Comment : Designator=rRef1 Old Comment= New Comment=Res1
+Change Component Comment : Designator=rRef2 Old Comment= New Comment=Res1
+Change Component Comment : Designator=Solenoide Old Comment= New Comment=Standard 2-pin 0.1" header. Use with <br>
+- straight break away headers ( PRT-00116)<br>
+- right angle break away headers (PRT-00553)<br>
+- swiss pins (PRT-00743)<br>
+- machine pins (PRT-00117)<br>
+- female headers (PRT-00115)<br><br>
+
+ Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.<br><br>
+
+2.54_SCREWTERM for use with  PRT-10571.<br><br>
+
+3.5mm Screw Terminal footprints for  PRT-08084<br><br>
+
+5mm Screw Terminal footprints for use with PRT-08432
+Change Component Comment : Designator=4N32A Old Comment=4N32A New Comment=4N32
+Change Component Comment : Designator=4N32B Old Comment=4N32B New Comment=4N32
+Change Component Comment : Designator=Con1 Old Comment=I/O New Comment=Header 6
+Change Component Comment : Designator=RL1 Old Comment=RT1 New Comment=Res1
+Change Component Comment : Designator=RL2 Old Comment=RT1 New Comment=Res1
+Change Component Comment : Designator=RL3 Old Comment=RT1 New Comment=Res1
+Change Component Comment : Designator=RT1 Old Comment=RT1 New Comment=Res1
+Change Component Comment : Designator=RT2 Old Comment=RT2 New Comment=Res1
+Change Component Comment : Designator=Batt Old Comment=Standard 2-pin 0.1" header. Use with <br>
+- straight break away headers ( PRT-00116)<br>
+- right angle break away headers (PRT-00553)<br>
+- swiss pins (PRT-00743)<br>
+- machine pins (PRT-00117)<br>
+- female headers (PRT-00115)<br><br>
+
+ Molex polarized connector foot print use with: PRT-08233 with associated New Comment=Standard 2-pin 0.1" header. Use with <br>
+- straight break away headers ( PRT-00116)<br>
+- right angle break away headers (PRT-00553)<br>
+- swiss pins (PRT-00743)<br>
+- machine pins (PRT-00117)<br>
+- female headers (PRT-00115)<br><br>
+
+ Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.<br><br>
+
+2.54_SCREWTERM for use with  PRT-10571.<br><br>
+
+3.5mm Screw Terminal footprints for  PRT-08084<br><br>
+
+5mm Screw Terminal footprints for use with PRT-08432
+Change Component Comment : Designator=bCap Old Comment=Standard 2-pin 0.1" header. Use with <br>
+- straight break away headers ( PRT-00116)<br>
+- right angle break away headers (PRT-00553)<br>
+- swiss pins (PRT-00743)<br>
+- machine pins (PRT-00117)<br>
+- female headers (PRT-00115)<br><br>
+
+ Molex polarized connector foot print use with: PRT-08233 with associated New Comment=Standard 2-pin 0.1" header. Use with <br>
+- straight break away headers ( PRT-00116)<br>
+- right angle break away headers (PRT-00553)<br>
+- swiss pins (PRT-00743)<br>
+- machine pins (PRT-00117)<br>
+- female headers (PRT-00115)<br><br>
+
+ Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.<br><br>
+
+2.54_SCREWTERM for use with  PRT-10571.<br><br>
+
+3.5mm Screw Terminal footprints for  PRT-08084<br><br>
+
+5mm Screw Terminal footprints for use with PRT-08432
+Change Component Designator: OldDesignator=Con1 NewDesignator=Conn1
+Change Component Description : Designator=4N32A Old Description=javascript:openreq('http://pdf.datasheetcatalog.com/datasheet2/3/072soll2h8p4pp2wp6izdlqaefcy.pdf') New Description=Optocoupler
+Change Component Description : Designator=4N32B Old Description=javascript:openreq('http://pdf.datasheetcatalog.com/datasheet2/3/072soll2h8p4pp2wp6izdlqaefcy.pdf') New Description=Optocoupler
+Added Component: Designator=cBatt(RB7.6-15)
+Added Component: Designator=DTGP602_I(SOD66)
+Added Component: Designator=DTGP602_PW(SOD66)
+Added Component: Designator=DTGP602_Sol(SOD66)
+Added Component: Designator=DTGP602_VCC(SOD66)
+Added Pin To Net: NetName=VCC Pin=cBatt-1
+Added Pin To Net: NetName=GND Pin=cBatt-2
+Added Pin To Net: NetName=NetDTGP602_1_1 Pin=DTGP602_I-1
+Added Pin To Net: NetName=VCAP Pin=DTGP602_I-2
+Added Pin To Net: NetName=GND Pin=DTGP602_PW-1
+Added Pin To Net: NetName=NetDTGP602_2_2 Pin=DTGP602_PW-2
+Added Pin To Net: NetName=NetDTGP602_2_2 Pin=DTGP602_Sol-1
+Added Pin To Net: NetName=VCAP Pin=DTGP602_Sol-2
+Added Pin To Net: NetName=NetBatt_2 Pin=DTGP602_VCC-1
+Added Pin To Net: NetName=VCC Pin=DTGP602_VCC-2
+Change Net Name : Old Net Name=NetDTGP602_1_1 New Net Name=NetDTGP602_I_1
+Change Net Name : Old Net Name=NetDTGP602_2_2 New Net Name=NetDTGP602_PW_2
+Added Member To Class: ClassName=Fuente DC-DC FutBot Member=Component cBatt Cap Pol1
+Added Member To Class: ClassName=Fuente DC-DC FutBot Member=Component DTGP602_I DTGP602
+Added Member To Class: ClassName=Fuente DC-DC FutBot Member=Component DTGP602_PW DTGP602
+Added Member To Class: ClassName=Fuente DC-DC FutBot Member=Component DTGP602_Sol DTGP602
+Added Member To Class: ClassName=Fuente DC-DC FutBot Member=Component DTGP602_VCC DTGP602
