@@ -1,0 +1,34 @@
+Características Mecánicas del Solenoide: 
+
+	Para este primer modelo no se utilizaron estrictamente ciertos criterios de diseño a la hora de construir el modelo, lo que llevo como ya se explicó más arriba a ciertas dificultades en realizar el émbolo (que consiste en dos secciones una de acero 1020 y otra de aluminio) puntualmente, en la juntura de las dos piezas, y problemas térmicos al operar el prototipo preliminar hecho en un carrete plástica ( donde estaba sujeto el bobinado de cobre), pero que luego pudieron ser sorteados como se explicó más arriba. Para este prototipo se observó que  pudiera cumplir con las siguientes especificaciones:
+
+-Térmicas: Que al calentarse la estructura donde está arrollado de cobre por efecto joule al circular la corriente esta no se fundiera,
+y como se observó en las pruebas con el modelo final este cumple su objetivo, a pesar que es notable el incremento en la temperatura
+de la estructura, lo cual por supuesto se traduce en pérdidas. Los efectos de calentamiento por roce y por las posibles corrientes
+parásitas que se forman en el émbolo son, al parecer, despreciables para los prototipo de este prototipo. 
+
+-Esfuerzos: Principalmente los esfuerzos más notables que tuvo que soportar el disparador resultaron ser en la juntura de émbolo
+como ya se explicó, y se logró resolver realizando las modificaciones ya mencionadas en la elaboración del dispositivo. Además
+para este modelo se optó por una liga para frenar el émbolo una vez que este se dispara, la cual hasta las últimas pruebas realizadas
+soportaba los esfuerzos a la cual era sometida. Por último la liga esta sujeto a las placas metálicas de aluminio que se describen
+al principio del documento, estas mismas serán utilizadas junto con otra pieza en L para poder realizar la juntura de toda la
+estructura del disparador al chasis del robot. Se espera que estas junturas soporten los esfuerzos a los que se van a someter 
+al utilizar el disparador.
+
+- Choque: El único choque a tomar en cuenta y que es el propósito del disparador es el del émbolo con la pelota de golf de la
+competencia, y al realizar las prueba se observo que este cumplia su proposito, en donde tanto la pelota de golf como el émbolo
+mantienen su integridad física. Este choque propiamente hablando será inelástico debido a las deformaciones como ocurren al
+interactuar el émbolo con la pelota, pero esta son despreciables para esta primera aproximación al problema. Se asumen así que el
+momento lineal se conserva durante el choque y a sí es posible determinar la velocidad que debería adquirir la pelota en base a
+este principio de conservación. Estos cálculos serán expuestos después. 
+
+-Pérdidas por Fricción: Los principal pérdida ocurre por el roce entre la estructura donde esta el arrollado y el émbolo movil
+dentro de el. Estas se consideran para una primera aproximación despreciables. 
+
+Cabe resaltar que todas estas pérdidas y efectos mecánicos con el tiempo deterioran toda la estructura por fatiga, lo cual saldrá
+a relucir con el uso como es natural esperar. Los materiales escogidos para realizar la estructura fueron escogidos por su disponibilidad
+y por criterios magnéticos principalmente, pero han demostrado el desempeño necesario. El mecanismo de frenado de la liga supone
+una enorme pérdida debido a la energía utilizada al estirarla, y será necesario reemplazar este mecanismo por otro en cuanto sea 
+posible que no suponga tal inconveniente.  
+
+Nota: El archivo hace referencia a otro seccion que aun esta por ser subida
