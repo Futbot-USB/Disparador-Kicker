@@ -1,6 +1,11 @@
 Características Mecánicas del Solenoide: 
 
-	Para este primer modelo no se utilizaron estrictamente ciertos criterios de diseño a la hora de construir el modelo, lo que llevo como ya se explicó más arriba a ciertas dificultades en realizar el émbolo (que consiste en dos secciones una de acero 1020 y otra de aluminio) puntualmente, en la juntura de las dos piezas, y problemas térmicos al operar el prototipo preliminar hecho en un carrete plástica ( donde estaba sujeto el bobinado de cobre), pero que luego pudieron ser sorteados como se explicó más arriba. Para este prototipo se observó que  pudiera cumplir con las siguientes especificaciones:
+	Para este primer modelo no se utilizaron estrictamente ciertos criterios de diseño a la hora de construir el modelo,
+	lo que llevo como ya se explicó más arriba a ciertas dificultades en realizar el émbolo (que consiste en dos secciones
+	una de acero 1020 y otra de aluminio) puntualmente, en la juntura de las dos piezas, y problemas térmicos al operar el 
+	prototipo preliminar hecho en un carrete plástica ( donde estaba sujeto el bobinado de cobre), pero que luego pudieron 
+	ser sorteados como se explicó más arriba. Para este prototipo se observó que  pudiera cumplir con las siguientes
+	especificaciones:
 
 -Térmicas: Que al calentarse la estructura donde está arrollado de cobre por efecto joule al circular la corriente esta no se fundiera,
 y como se observó en las pruebas con el modelo final este cumple su objetivo, a pesar que es notable el incremento en la temperatura
